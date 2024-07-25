@@ -1,5 +1,5 @@
 # ClimaMaster-weather-app using REACT
-This app has been developed using React.js fetches its data using openweatherapp API.
+This app has been developed using React.js. It fetches its data using openweatherapp API.
 ![image](https://github.com/user-attachments/assets/e88fc358-12cc-49b5-89d0-4c773b7e504b)
 
 **Features:**\
