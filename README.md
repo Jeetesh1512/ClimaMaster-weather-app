@@ -2,7 +2,7 @@
 This app has been developed using React.js fetches its data using openweatherapp API.
 ![image](https://github.com/user-attachments/assets/e88fc358-12cc-49b5-89d0-4c773b7e504b)
 
-**Features**
+**Features:**\
   ->  User can fetch the current weather of any city in the world.\
   ->  3-hour hourly weather \
   ->  complete details of the weather of the same day\
@@ -21,7 +21,7 @@ This app has been developed using React.js fetches its data using openweatherapp
 
 
 
-**Installation and Usage:**
+**Installation and Usage:**\
 ->  Clone the repository\
 ->  Run `npm i react-icons`\
 ->  Run `npm i luxon`\
