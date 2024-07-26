@@ -26,9 +26,7 @@ This app has been developed using React.js. It fetches its data using openweathe
 **Installation and Usage:**
 
 ->  Clone the repository\
-->  Run `npm i react-icons`\
-->  Run `npm i luxon`\
-->  Run `npm i react-toastify`\
+->  Run `npm i`\
 ->  Run `npm run dev` and navigate to the url that is shown in the terminal
 
 To use the app, type the name of the required city in the search bar and click the search button. For the weather at your location press the navigation button near the search bar.
