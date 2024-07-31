@@ -18,8 +18,7 @@ This app has been developed using React.js. It fetches its data using openweathe
   ->  Tailwind CSS\
   ->  JavaScript\
   ->  React.JS\
-  ->  Openweatherapp API\
-  ->  Luxon
+  ->  Openweatherapp API
 
 
 
